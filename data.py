@@ -2,7 +2,7 @@ question_data = [
     {
         "category": "Science: Computers",
         "type": "boolean",
-        "difficulty": "medium",
+        "difficulty": "medium", 
         "question": "The HTML5 standard was published in 2014.",
         "correct_answer": "True",
         "incorrect_answers": [
